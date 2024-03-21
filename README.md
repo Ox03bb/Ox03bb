@@ -5,7 +5,7 @@
 
 * **Programming Languages:**
 
-  ![C](https://img.shields.io/badge/-C-142282?style=flat&logo=C&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-%3C/%3E%20Bash-2d2e2e?style=flat&logo=&logoColor=white)
+  ![C](https://img.shields.io/badge/-C-142282?style=flat&logo=C&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-%3C/%3E%20Bash-2d2e2e?style=flat&logo=&logoColor=white)
 
 * **Backend Frameworks:**
   
