@@ -1,5 +1,6 @@
 ## Hi! I'm Ali,  a computer science student and web developer.
 
+<hr>
 <h3>Skills :</h3>
 
 * **Programming Languages:**
