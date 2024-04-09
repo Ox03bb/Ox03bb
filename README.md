@@ -5,7 +5,8 @@
 
 * **Programming Languages:**
 
-  ![C](https://img.shields.io/badge/-C-142282?style=flat&logo=C&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white) ![PHP](https://img.shields.io/badge/-php-777BB3?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-%3C/%3E%20Bash-2d2e2e?style=flat&logo=&logoColor=white)
+  ![C](https://img.shields.io/badge/-C-142282?style=flat&logo=C&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white) ![PHP](https://img.shields.io/badge/-php-777BB3?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-%3C/%3E%20Bash-2d2e2e?style=flat&logo=&logoColor=white) ![Assembly](https://img.shields.io/badge/x86%20Assembly-lightgrey?style=flat&logo=assambly&logoColor=white)) ![P](https://img.shields.io/badge/-Pascal-8c9dc4?style=flat&logo=C&logoColor=white)
+
 
 * **Backend Frameworks:**
   
