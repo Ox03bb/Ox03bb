@@ -25,8 +25,10 @@
 **I'm always looking for new projects to collaborate on. Feel free to reach out!**
 
 <h3>GitHub Stats :</h3>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ox03bb\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Ox03bb\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff" />
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ox03bb\&layout=donut" />
+
+
 
 
 
