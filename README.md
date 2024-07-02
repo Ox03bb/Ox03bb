@@ -3,6 +3,10 @@
 <hr>
 <h3>Skills :</h3>
 
+* **Artificial intelligence (AI):**
+  ![sklearn](https://img.shields.io/badge/-sklearn-F89C3F?style=flat&logo=scikit%20learn&logoColor=white&labelColor=3294C7) ![numpy](https://img.shields.io/badge/-numpy-4D77CF?style=flat&logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/-pandas-222832?style=flat&logo=pandas&logoColor=white)
+
+
 * **Programming Languages:**
 
   ![C](https://img.shields.io/badge/-C-142282?style=flat&logo=C&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white) ![PHP](https://img.shields.io/badge/-php-777BB3?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-%3C/%3E%20Bash-2d2e2e?style=flat&logo=&logoColor=white) ![Assembly](https://img.shields.io/badge/x86%20Assembly-lightgrey?style=flat&logo=assambly&logoColor=white) ![P](https://img.shields.io/badge/-Pascal-8c9dc4?style=flat&logo=Pascal&logoColor=white)
@@ -10,7 +14,7 @@
 
 * **Backend Frameworks:**
   
-  ![Django](https://img.shields.io/badge/-Django-0b3324?style=flat&logo=django&logoColor=white) ![Django REST Framework](https://img.shields.io/badge/-Django_REST_Framework-a30000?style=flat&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express-white?style=flat&logo=express&logoColor=2d2e2e) ![NodeJS](http://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white)
+  ![Django](https://img.shields.io/badge/-Django-0b3324?style=flat&logo=django&logoColor=white) ![Django REST Framework](https://img.shields.io/badge/-Django_REST_Framework-a30000?style=flat&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express-white?style=flat&logo=express&logoColor=2d2e2e) ![NodeJS](http://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white) ![FastApi](https://img.shields.io/badge/-FastApi-029385?style=flat&logo=fastapi&logoColor=white)
 * **Databases:**
   
   ![SQL](https://img.shields.io/badge/-SQL-007DBA?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-43A047?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-redis-D82C20?style=flat&logo=redis&logoColor=fff)
