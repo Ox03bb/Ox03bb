@@ -1,9 +1,9 @@
+## Hi! I'm Ali,  a computer science student and web developer.
 
 ![كُوفِيَّة](https://github.com/user-attachments/assets/59b5a2ed-f78f-4451-b490-66b5b37968e8)
 
 
 
-## Hi! I'm Ali,  a computer science student and web developer.
 
 <hr>
 <h3>Skills :</h3>
