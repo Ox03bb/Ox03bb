@@ -34,6 +34,13 @@
 
 **I'm always looking for new projects to collaborate on. Feel free to reach out!**
 
+## GitHub Stats
+<p align="center">
+  <a href="https://github.com/Ox03bb">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ox03bb&theme=transparent" alt="Ox03bb's GitHub Contribution"/>
+  </a>
+</p>
+
 <hr>
 <h3 align="center">Social Media</h3>
 <p align="center">
