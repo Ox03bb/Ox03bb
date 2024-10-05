@@ -11,7 +11,7 @@
 * **Artificial intelligence (AI):**
   
 
-  ![Tensorflow](https://img.shields.io/badge/-Tensorflow-ff6f00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-d00000?style=flat&logo=keras&logoColor=white) ![sklearn](https://img.shields.io/badge/-sklearn-F89C3F?style=flat&logo=scikit%20learn&logoColor=white&labelColor=3294C7) ![numpy](https://img.shields.io/badge/-numpy-4D77CF?style=flat&logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/-pandas-222832?style=flat&logo=pandas&logoColor=white)
+  ![Tensorflow](https://img.shields.io/badge/-Tensorflow-ff6f00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-d00000?style=flat&logo=keras&logoColor=white) ![sklearn](https://img.shields.io/badge/-sklearn-F89C3F?style=flat&logo=scikit%20learn&logoColor=white&labelColor=3294C7) ![LangChain](https://img.shields.io/badge/-%F0%9F%A6%9C%E2%9B%93%20LangChain-1C3C3C) ![numpy](https://img.shields.io/badge/-numpy-4D77CF?style=flat&logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/-pandas-222832?style=flat&logo=pandas&logoColor=white)
 
   
 * **Programming Languages:**
