@@ -33,11 +33,9 @@
   
   ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-007ACC?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)  ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white&style=flat) 
 
-### GitHub Stats
+### TryHackMe
 <p align="center">
-  <a href="https://github.com/Ox03bb">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ox03bb&theme=transparent" alt="Ox03bb's GitHub Contribution"/>
-  </a>
+ <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2950424" style='border:none;'></iframe>
 </p>
 
 **I'm always looking for new projects to collaborate on. Feel free to reach out!**
