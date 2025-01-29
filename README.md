@@ -35,7 +35,7 @@
 
 ### TryHackMe
 <p align="center">
- <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2950424" style='border:none;'></iframe>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/alibouakaz91.png" alt="TryHackMe" />
 </p>
 
 **I'm always looking for new projects to collaborate on. Feel free to reach out!**
