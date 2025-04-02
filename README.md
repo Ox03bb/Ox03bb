@@ -21,10 +21,10 @@
 
 * **Backend Frameworks:**
   
-  ![Django](https://img.shields.io/badge/-Django-0b3324?style=flat&logo=django&logoColor=white) ![Django REST Framework](https://img.shields.io/badge/-Django_REST_Framework-a30000?style=flat&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express-white?style=flat&logo=express&logoColor=2d2e2e) ![NodeJS](http://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white) ![FastApi](https://img.shields.io/badge/-FastApi-029385?style=flat&logo=fastapi&logoColor=white)
+  ![Django](https://img.shields.io/badge/-Django-0b3324?style=flat&logo=django&logoColor=white) ![Django REST Framework](https://img.shields.io/badge/-Django_REST_Framework-a30000?style=flat&logo=django&logoColor=white) ![flask](https://img.shields.io/badge/-flask-6CC1CD?style=flat&logo=flask&logoColor=white) ![NodeJS](http://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white) ![FastApi](https://img.shields.io/badge/-FastApi-029385?style=flat&logo=fastapi&logoColor=white)
 * **Databases:**
   
-  ![SQL](https://img.shields.io/badge/-SQL-007DBA?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-43A047?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-redis-D82C20?style=flat&logo=redis&logoColor=fff)
+  ![SQL](https://img.shields.io/badge/-SQL-007DBA?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-43A047?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-redis-D82C20?style=flat&logo=redis&logoColor=fff) ![Qdrant](https://img.shields.io/badge/-Qdrant-DD2B52?style=flat&logo=Qdrant&logoColor=white)
 * **Frontend:**
   
   ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1589FF?style=flat&logo=CSS3&logoColor=white) ![HTMX](https://img.shields.io/badge/-htmx-191A1C?style=flat&logo=htmx&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=Bootstrap&logoColor=white) ![Tailwindcss](https://img.shields.io/badge/-Tailwind-38BDF8?style=flat&logo=tailwindcss&logoColor=white)
