@@ -2,11 +2,6 @@
 
 ![كُوفِيَّة](https://github.com/user-attachments/assets/59b5a2ed-f78f-4451-b490-66b5b37968e8)
 
-
-<div style="display: none;">
-  <img src="https://komarev.com/ghpvc/?username=ox03bb&color=blue" alt="Profile views" />
-</div>
-
 <hr>
 <h3>Skills :</h3>
 
