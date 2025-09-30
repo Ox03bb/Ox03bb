@@ -34,8 +34,8 @@
 
  
 
-### TryHackMe: (Top 4%)
- <a href='https://tryhackme.com/p/AliBouakaz'> <img src="https://tryhackme-badges.s3.amazonaws.com/AliBouakaz.png?perm=none1" alt="TryHackMe" /></a>
+### TryHackMe: (Top 3%)
+ <a href='https://tryhackme.com/p/AliBouakaz'> <img src="https://tryhackme-badges.s3.amazonaws.com/AliBouakaz.png?perm=n" alt="TryHackMe" /></a>
 
 **I'm always looking for new projects to collaborate on. Feel free to reach out!**
 
