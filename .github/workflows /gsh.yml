@@ -1,0 +1,26 @@
+name: Mirror gsh
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Clone upstream as mirror
+        run: |
+          git clone --mirror https://github.com/TechGeeks-Club/gsh.git upstream.git
+
+      - name: Push to personal repo
+        env:
+          TOKEN: ${{ secrets.PAT }}
+        run: |
+          cd upstream.git
+          git remote set-url --push origin https://$TOKEN@github.com/Ox03bb/gsh.git
+          git fetch -p origin
+          git push --mirror
