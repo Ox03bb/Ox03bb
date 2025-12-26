@@ -13,7 +13,7 @@
   
 * **Programming Languages:**
 
-  ![C](https://img.shields.io/badge/-C/C+-142282?style=flat&logo=C&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white) ![go](https://img.shields.io/badge/-go-00ADD8?style=flat&logo=go&logoColor=white) ![PHP](https://img.shields.io/badge/-php-777BB3?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![java](https://img.shields.io/badge/-Java-c2d2ed) ![Bash](https://img.shields.io/badge/-%3C/%3E%20Bash-2d2e2e?style=flat&logo=&logoColor=white) ![Assembly](https://img.shields.io/badge/x86%20Assembly-lightgrey?style=flat&logo=assambly&logoColor=white) ![P](https://img.shields.io/badge/-Pascal-8c9dc4?style=flat&logo=Pascal&logoColor=white)
+  ![C](https://img.shields.io/badge/-C/C+-142282?style=flat&logo=C&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white) ![go](https://img.shields.io/badge/-go-00ADD8?style=flat&logo=go&logoColor=white) ![PHP](https://img.shields.io/badge/-php-777BB3?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/-dart-1793d1?style=flat&logo=dart&logoColor=white) ![java](https://img.shields.io/badge/-Java-c2d2ed) ![Bash](https://img.shields.io/badge/-%3C/%3E%20Bash-2d2e2e?style=flat&logo=&logoColor=white) ![Assembly](https://img.shields.io/badge/x86%20Assembly-lightgrey?style=flat&logo=assambly&logoColor=white) ![P](https://img.shields.io/badge/-Pascal-8c9dc4?style=flat&logo=Pascal&logoColor=white)
 
 
 * **Backend Frameworks:**
@@ -24,9 +24,9 @@
 
   ![SQL](https://img.shields.io/badge/-SQL-007DBA?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-43A047?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-redis-D82C20?style=flat&logo=redis&logoColor=fff) ![Qdrant](https://img.shields.io/badge/-Qdrant-DD2B52?style=flat&logo=Qdrant&logoColor=white) ![elasticsearch](https://img.shields.io/badge/-elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white) ![s3](https://img.shields.io/badge/-S3-569A31?style=flat&logo=amazon-s3&logoColor=white) ![minIO](https://img.shields.io/badge/-minIO-cf163e?style=flat&logo=minio&logoColor=white) 
 
-* **Frontend:**
+* **Frontend/Mobile:**
   
-  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1589FF?style=flat&logo=CSS3&logoColor=white) ![HTMX](https://img.shields.io/badge/-htmx-191A1C?style=flat&logo=htmx&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=Bootstrap&logoColor=white) ![Tailwindcss](https://img.shields.io/badge/-Tailwind-38BDF8?style=flat&logo=tailwindcss&logoColor=white)
+  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1589FF?style=flat&logo=CSS3&logoColor=white) ![Flutter](https://img.shields.io/badge/-flutter-1793d1?style=flat&logo=flutter&logoColor=white) ![HTMX](https://img.shields.io/badge/-htmx-191A1C?style=flat&logo=htmx&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=Bootstrap&logoColor=white) ![Tailwindcss](https://img.shields.io/badge/-Tailwind-38BDF8?style=flat&logo=tailwindcss&logoColor=white)
 
 * **Other Tools:**
   
