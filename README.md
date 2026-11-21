@@ -1,8 +1,12 @@
 ## Hi! I'm Ali,  Backend Engineer and AI Student. 
 
-![كُوفِيَّة](https://github.com/user-attachments/assets/59b5a2ed-f78f-4451-b490-66b5b37968e8)
+I'm a Backend Engineer focused on software engineering, system design, and architecture. I primarily work with Python and Go, while exploring  AI engineering, and low-level development.
 
-<hr>
+I enjoy building things from scratch, ranging from AI-powered applications to low-level systems such as operating system kernels, programming languages, and containerization systems...etc
+
+Outside tech, I'm a musician and audio producer, with a deep interest in philosophy, particularly epistemology...
+
+
 <h3>Skills :</h3>
 
 * **Artificial intelligence (AI):**
