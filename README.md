@@ -38,8 +38,10 @@ Outside tech, I'm a musician and audio producer, with a deep interest in philoso
 * **Other Tools:**
   
   ![Linux](https://img.shields.io/badge/-Arch-1793d1?style=flat&logo=archlinux&logoColor=white) ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)  ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white&style=flat) 
-
- 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ox03bb&theme=apprentice"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ox03bb&theme=apprentice&exclude=Jupyter+Notebook%2C+QML%2C"/>
+</p>
 
 ### TryHackMe: (Top 2%)
  <a href='https://tryhackme.com/p/AliBouakaz'> <img src="https://tryhackme-badges.s3.amazonaws.com/AliBouakaz.png?perm=t2" alt="TryHackMe" /></a>
